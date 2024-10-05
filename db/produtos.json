@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Maça",
+    "descricao": "Maça da turma da Mônica",
+    "preco": 2.75,
+    "quantidade": 50
+  },
+  {
+    "id": 2,
+    "nome": "Manga",
+    "descricao": "Manga Rosa",
+    "preco": 3.8,
+    "quantidade": 60
+  },
+  {
+    "id": 3,
+    "nome": "Uva",
+    "descricao": "Uva Niagara",
+    "preco": 8.95,
+    "quantidade": 80
+  },
+  {
+    "id": 1728041819,
+    "nome": "Caju",
+    "descricao": "Caju rancentinho",
+    "preco": 1.5,
+    "quantidade": 50
+  },
+  {
+    "id": 1728041934,
+    "nome": "Banana",
+    "descricao": "Banana nanica",
+    "preco": 2.62,
+    "quantidade": 19
+  }
+]
